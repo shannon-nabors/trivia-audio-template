@@ -1,0 +1,21 @@
+{
+  "name": "mashup-trivia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^1.12.4",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "semantic-ui-react": "^2.0.0"
+  },
+  "devDependencies": {
+    "serve": "^11.3.2"
+  }
+}
